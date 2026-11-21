@@ -26,8 +26,9 @@
                 VP6 ffmpeg читает только с начала (перемотка -ss ломает декодер) — сначала весь ролик в mp4, потом резать.
                 Ролики Remastered — Bink 2 (KB2j), ffmpeg их не читает.
   static\img\bg.jpg      постер до видео (первый кадр hero.mp4)
-  static\img\hub-hp.jpg  карточка HP: полицейский Mustang сбоку из UI\MOVIES\275249.VP6 (10 с) — по рецепту хаба
-                (машина 900 px, низ колес y = 470); то же фото — хаб static\img\hp.jpg. Свой скрин Вани из игры — заменить оба.
+  static\img\hub-hp.jpg  карточка HP: скрин Вани из Remastered (inputs\20261121102623_1.jpg — его Lancer + полиция), 21.11;
+                как вырезать — outputs\nfs-own-music\dizajn\README.txt (строка hp); то же фото — хаб img\hp.jpg, сайты Unbound / Heat.
+  static\img\og.jpg, bg.jpg — полицейский Mustang из UI\MOVIES\275249.VP6 (8 с); исходник превью — outputs\nfs-hp\sajt-dizajn\og.html
   static\img\hub-unbound.jpg, hub-heat.jpg — копии с сайта Heat
   static\favicon.svg     «мигалка» красный | синий
   og.jpg (превью ссылки 1200x630) — ЕЩЕ НЕТ: снять с первого экрана перед публикацией.
