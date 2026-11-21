@@ -1,0 +1,58 @@
+# tr — сайт Hot Pursuit Soundtrack. Общие строки (хаб, подвал, кнопки) — как на сайте Heat; про HP — свои (21.11.2026).
+# Формат: ключ = текст. **жирный**, [текст](ключ-ссылка из sajt.txt), обратный слэш + n — перенос.
+
+# --- общее с сайтом Heat ---
+og_locale = tr_TR
+lang_name = Türkçe
+suggest = Bu sayfa Türkçe olarak da var
+ai_note = Çeviriler yapay zekâ ile yapıldı (Claude)
+lang_nav = Dil
+soon = Yakında
+download = İndir
+source = Kaynak kodu
+facts = Ücretsiz · Windows 10/11 · Sadece tek oyunculu · Hayran yapımı, EA ile bağlantısı yok
+guide = Steam rehberi
+hubTag = Tüm seri için sitemiz
+hubLead = **Need for Speed**'de kendi şarkıların — oyunun müziklerinin yanında, yeni parçalar olarak.
+hubReady = Çıktı
+hubSoon = Yakında
+hubGo = Siteye git
+hubStrip = Tüm NFS serisinde kendi şarkıların
+hubRole = tüm NFS oyunları · Site ↗
+hMade = Yapanlar
+madeK = geliştirici · Steam ↗
+madeC = Anthropic'in yapay zekâsı · claude.ai ↗
+hLearned = Kimden öğrendik
+hNeed = Gerekenler
+hOff = Sadece çevrimdışı
+license = Kod yapay zekâ ile yazıldı (Anthropic'in Claude'u). Lisans — GNU GPL v3: kullan, paylaş, değiştir — “Kitivski + Claude” imzasını ve açık kodu koru.
+
+# --- Hot Pursuit ---
+seo_title = Hot Pursuit Soundtrack — NFS Hot Pursuit ve Remastered'a kendi müziğin (PC modu)
+seo_desc = Yakında: kendi şarkılarını Need for Speed Hot Pursuit (2010) ve Hot Pursuit Remastered'a yarışlarda ve kovalamacalarda yeni parçalar olarak ekle. YouTube / YT Music / Spotify'dan şarkılar. Ücretsiz, açık kaynak.
+heroTag = Kendi müziğin için mod · NFS Hot Pursuit · 2010 + Remastered · PC
+lead = **Need for Speed Hot Pursuit** ve **Hot Pursuit Remastered**'da kendi şarkıların — yarışlarda ve kovalamacalarda, oyunun müziğinin yanında yeni parçalar olarak.
+hubSub = Ücretsiz, açık kaynaklı programlar. Unbound ve Heat hazır, sırada Hot Pursuit var.
+hWhat = Neler yapacak
+f1t = Kendi şarkıların
+f1 = mp3, flac, wav, ogg, m4a — kendi adıyla **yeni** parçalar olarak, oyunun müziğinin yerine değil, yanına. Oyunun parçalarını tutabilir ya da kapatabilirsin.
+f2t = Yarışlar ve kovalamacalar
+f2 = Oyunda iki çalma listesi var: yarışlar ve polis kovalamacaları. Her şarkının nerede çalacağını onay kutularıyla seçersin.
+f3t = 2010 ve Remastered
+f3 = İki sürüm için tek program: oyunu Steam'de ya da EA app'te kendisi bulur. Müzik ikisinde de aynı şekilde çalışır.
+f4t = YouTube · YT Music · Spotify
+f4 = Şarkı, çalma listesi ya da albüm bağlantısını yapıştır — program kendisi indirir, Unbound ve Heat Soundtrack'teki gibi.
+f5t = Orijinale dön
+f5 = Oyuna ilk kurulumdan önce program oyunun orijinal müzik dosyalarının bir kopyasını saklar. Tek tuş — oyun eskisi gibi olur. Frosty ve anahtar yok: Hot Pursuit Frostbite kullanmaz.
+f6t = Temiz zip
+f6 = Zip'te ne müzik ne de oyun dosyası var: şarkılar senin, oyun dosyalarını program senin oyunundan okur.
+n1 = **Windows 10 ya da 11**.
+n2 = **Need for Speed Hot Pursuit** (2010) ya da **Hot Pursuit Remastered** — Steam ya da EA app.
+n3 = Başka bir şey gerekmez: Frosty Mod Manager yok, şifreleme anahtarı yok.
+hStatus = Durum
+hProg = Yapım aşamasında
+prog = Oyunun müziği nasıl sakladığını çözdük: çekirdek şimdiden yarışlara ve kovalamacalara şarkı ekliyor ve orijinali geri getiriyor — oyun dosyalarının bir kopyasında test edildi. Programın ilk sürümü hazır — şimdi oyunda test ediliyor. Çıkış — burada ve NFS Own Music'te.
+off = Program oyunun müzik dosyalarını değiştirir. Çevrimiçi oynamadan önce orijinal dosyaları geri yükle — programda tek tuş.
+learned1 = [Ghidra](ghidra) — oyun müziği nasıl okuyor; [vgmstream](vgm) — EA'nın ses biçimi; EA ses kodlayıcısı [Frosty Toolsuite](frosty)'ten.
+learned2 = [Unbound Soundtrack](unbound) ve [Heat Soundtrack](heat) — NFS Unbound ve Heat için programlarımız; Hot Pursuit Soundtrack onlardan doğuyor.
+foot = Hayran projesi; Electronic Arts, Criterion Games ya da Stellar Entertainment ile bağlantısı yoktur. Need for Speed ve Hot Pursuit, Electronic Arts Inc.'in ticari markalarıdır. Üstteki video oyunun açılışından.

@@ -1,0 +1,58 @@
+# ja — сайт Hot Pursuit Soundtrack. Общие строки (хаб, подвал, кнопки) — как на сайте Heat; про HP — свои (21.11.2026).
+# Формат: ключ = текст. **жирный**, [текст](ключ-ссылка из sajt.txt), обратный слэш + n — перенос.
+
+# --- общее с сайтом Heat ---
+og_locale = ja_JP
+lang_name = 日本語
+suggest = このページは日本語でもご覧いただけます
+ai_note = 翻訳は AI（Claude）によるものです
+lang_nav = 言語
+soon = 近日公開
+download = ダウンロード
+source = ソースコード
+facts = 無料 · Windows 10/11 · シングルプレイ専用 · ファンメイド、EA とは無関係
+guide = Steam ガイド
+hubTag = シリーズ共通サイト
+hubLead = **Need for Speed** に自分の曲を——ゲームの音楽と並ぶ新しいトラックとして。
+hubReady = 公開中
+hubSoon = 近日公開
+hubGo = サイトへ
+hubStrip = NFS シリーズ全体に自分の曲を
+hubRole = NFS 全シリーズ · サイト ↗
+hMade = 制作
+madeK = 開発者 · Steam ↗
+madeC = Anthropic の AI · claude.ai ↗
+hLearned = 参考にしたもの
+hNeed = 必要なもの
+hOff = オフライン専用
+license = コードは AI（Anthropic の Claude）と一緒に書きました。ライセンス — GNU GPL v3：自由に使い、共有し、改変できます — 「Kitivski + Claude」のクレジットとオープンなコードを残してください。
+
+# --- Hot Pursuit ---
+seo_title = Hot Pursuit Soundtrack — NFS ホット・パースート／リマスターに自分の音楽を（PC用MOD）
+seo_desc = 近日公開：Need for Speed Hot Pursuit（2010）と Hot Pursuit Remastered のレースと追跡に、自分の曲を新しいトラックとして追加。YouTube / YT Music / Spotify の曲にも対応。無料・オープンソース。
+heroTag = 自分の音楽MOD · NFS Hot Pursuit · 2010 + Remastered · PC
+lead = **Need for Speed Hot Pursuit** と **Hot Pursuit Remastered** に自分の曲を。レースと追跡の新しいトラックとして、ゲームの音楽と一緒に流れます。
+hubSub = 無料のオープンソース・アプリ。Unbound と Heat は完成、次は Hot Pursuit。
+hWhat = できるようになること
+f1t = 自分の曲
+f1 = mp3・flac・wav・ogg・m4a を、自分の名前の**新しい**トラックとして追加。ゲームのサウンドトラックの置き換えではなく、隣に並びます。ゲームの曲は残しても、オフにしてもOK。
+f2t = レースと追跡
+f2 = ゲームのプレイリストは2つ：レースと警察の追跡。各曲をどこで流すか、チェックで選べます。
+f3t = 2010とRemastered
+f3 = 両バージョンに1つのアプリで対応。Steam や EA app のゲームを自動で見つけます。音楽の仕組みはどちらも同じです。
+f4t = YouTube · YT Music · Spotify
+f4 = 曲・プレイリスト・アルバムのリンクを貼るだけで、アプリが自動でダウンロード。Unbound・Heat Soundtrack と同じです。
+f5t = 元に戻す
+f5 = 最初にゲームへインストールする前に、ゲームの元の音楽ファイルをバックアップ。ボタン1つで元どおり。Frosty も鍵も不要：Hot Pursuit は Frostbite ではありません。
+f6t = クリーンな zip
+f6 = zip には音楽もゲームファイルも入っていません。曲はあなたのもの、ゲームファイルはあなたのゲームから読み込みます。
+n1 = **Windows 10 または 11**。
+n2 = **Need for Speed Hot Pursuit**（2010）または **Hot Pursuit Remastered** — Steam か EA app。
+n3 = ほかには何もいりません：Frosty Mod Manager も暗号鍵も不要。
+hStatus = 進捗
+hProg = 開発中
+prog = ゲームが音楽をどう保存しているかは解明済み。コアはすでにレースと追跡に曲を追加し、元に戻せます（ゲームファイルのコピーでテスト済み）。アプリの最初のバージョンは完成、いまゲーム内でテスト中。公開はここと NFS Own Music で。
+off = アプリはゲームの音楽ファイルを変更します。オンラインで遊ぶ前に、元のファイルに戻してください（アプリのボタン1つ）。
+learned1 = [Ghidra](ghidra) — ゲームが音楽を読む仕組み；[vgmstream](vgm) — EA の音声形式；EA の音声エンコーダーは [Frosty Toolsuite](frosty) から。
+learned2 = [Unbound Soundtrack](unbound) と [Heat Soundtrack](heat) — NFS Unbound と Heat 用の私たちのアプリ。Hot Pursuit Soundtrack はそこから生まれます。
+foot = ファンプロジェクトであり、Electronic Arts、Criterion Games、Stellar Entertainment とは関係ありません。Need for Speed と Hot Pursuit は Electronic Arts Inc. の商標です。トップの動画はゲームのイントロより。

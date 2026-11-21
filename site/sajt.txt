@@ -1,0 +1,39 @@
+# ОБЩЕЕ ДЛЯ ВСЕХ ЯЗЫКОВ. Формат: ключ = значение. Строки с # — комментарии.
+# Поменял тут — запусти prosmotr.cmd (посмотреть) или opublikovat.cmd (на GitHub).
+
+# --- выпуск. released = no -> на первом экране и в шапке «Скоро», своя карточка в блоке NFS Own Music — «Скоро».
+#     Выпуск: released = yes + version / size / versions + в shablon.html разделы скринов / как пользоваться / что нового (как у Heat). ---
+released = no
+version = 1.0
+size = 0
+
+# --- «Что нового»: версии сверху вниз, через ; (версия дата). До выпуска не выводится ---
+versions = 1.0 2026-11-21
+
+# --- ссылки ---
+download = https://github.com/kotovskivan/HotPursuitSoundtrack/releases/latest/download/HotPursuitSoundtrack.zip
+github = https://github.com/kotovskivan/HotPursuitSoundtrack
+hub = https://kotovskivan.github.io/NFSOwnMusic/
+kitivski = https://steamcommunity.com/id/kitivski/
+unbound = https://kotovskivan.github.io/UnboundSoundtrack/
+heat = https://kotovskivan.github.io/HeatSoundtrack/
+# «Вчилися на»
+ghidra = https://github.com/NationalSecurityAgency/ghidra
+vgm = https://github.com/vgmstream/vgmstream
+frosty = https://github.com/CadeEvs/FrostyToolsuite
+# плитки под кнопками (Steam-гайд, NFSMods, NFSAddons, Nexus) — пусто = плитки нет
+guide =
+nfsmods =
+nfsaddons =
+nexus =
+
+# --- адрес сайта (SEO: canonical, hreflang, sitemap, картинка в превью ссылки) ---
+base_url = https://kotovskivan.github.io/HotPursuitSoundtrack/
+
+# --- языки: первый — главный (корень сайта), остальные — /en/ /de/ ... ; x-default — для всех прочих стран.
+#     Те же, что у NFS Own Music: ссылка «Все игры» ведет на страницу того же языка. ---
+languages = uk; en; de; es; fr; it; pl; pt; tr; ru; zh; ja; ko; fi
+x_default = en
+
+# --- Google Search Console: код из мета-тега подтверждения (только content="..."), пусто — не вставляется ---
+google_verify =

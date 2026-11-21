@@ -1,0 +1,58 @@
+# pl — сайт Hot Pursuit Soundtrack. Общие строки (хаб, подвал, кнопки) — как на сайте Heat; про HP — свои (21.11.2026).
+# Формат: ключ = текст. **жирный**, [текст](ключ-ссылка из sajt.txt), обратный слэш + n — перенос.
+
+# --- общее с сайтом Heat ---
+og_locale = pl_PL
+lang_name = Polski
+suggest = Ta strona jest też po polsku
+ai_note = Tłumaczenia wykonane przez AI (Claude)
+lang_nav = Język
+soon = Wkrótce
+download = Pobierz
+source = Kod źródłowy
+facts = Za darmo · Windows 10/11 · Tylko gra jednoosobowa · Projekt fanowski, niezwiązany z EA
+guide = Poradnik na Steam
+hubTag = Nasza strona całej serii
+hubLead = Własne piosenki w **Need for Speed** — jako nowe utwory, obok muzyki z gry.
+hubReady = Dostępne
+hubSoon = Wkrótce
+hubGo = Przejdź na stronę
+hubStrip = Własne piosenki w całej serii NFS
+hubRole = cała seria NFS · Strona ↗
+hMade = Zrobili
+madeK = twórca · Steam ↗
+madeC = AI od Anthropic · claude.ai ↗
+hLearned = Uczyliśmy się na
+hNeed = Potrzebujesz
+hOff = Tylko offline
+license = Kod napisany z AI (Claude od Anthropic). Licencja — GNU GPL v3: używaj, udostępniaj, zmieniaj — zostaw podpis „Kitivski + Claude” i otwarty kod.
+
+# --- Hot Pursuit ---
+seo_title = Hot Pursuit Soundtrack — własna muzyka w NFS Hot Pursuit i Remastered (mod na PC)
+seo_desc = Wkrótce: dodaj swoje piosenki do Need for Speed Hot Pursuit (2010) i Hot Pursuit Remastered jako nowe utwory w wyścigach i pościgach. Piosenki z YouTube / YT Music / Spotify. Za darmo, otwarty kod.
+heroTag = Mod na własną muzykę · NFS Hot Pursuit · 2010 + Remastered · PC
+lead = Twoje piosenki w **Need for Speed Hot Pursuit** i **Hot Pursuit Remastered** — jako nowe utwory w wyścigach i pościgach, obok muzyki z gry.
+hubSub = Darmowe programy z otwartym kodem. Unbound i Heat są gotowe, Hot Pursuit — następny.
+hWhat = Co będzie umiał
+f1t = Twoje piosenki
+f1 = mp3, flac, wav, ogg, m4a — jako **nowe** utwory z własną nazwą, obok ścieżki dźwiękowej gry, a nie zamiast niej. Utwory z gry zostaw albo wyłącz.
+f2t = Wyścigi i pościgi
+f2 = Gra ma dwie playlisty: wyścigi i pościgi z policją. Ptaszkami wybierasz, gdzie gra każda piosenka.
+f3t = 2010 i Remastered
+f3 = Jeden program do obu wersji: sam znajdzie grę w Steam lub EA app. Muzyka działa w nich tak samo.
+f4t = YouTube · YT Music · Spotify
+f4 = Wklej link do piosenki, playlisty albo albumu — program sam pobierze, jak w Unbound i Heat Soundtrack.
+f5t = Przywróć oryginał
+f5 = Przed pierwszą instalacją do gry program zapisuje kopię oryginalnych plików muzyki. Jeden przycisk — i gra jest jak była. Bez Frosty i kluczy: Hot Pursuit nie jest na Frostbite.
+f6t = Czysty zip
+f6 = W zipie nie ma ani muzyki, ani plików gry: piosenki są twoje, pliki gry program czyta z twojej gry.
+n1 = **Windows 10 lub 11**.
+n2 = **Need for Speed Hot Pursuit** (2010) lub **Hot Pursuit Remastered** — Steam lub EA app.
+n3 = Nic więcej: bez Frosty Mod Manager i kluczy szyfrowania.
+hStatus = Jak idzie
+hProg = W pracy
+prog = Rozgryźliśmy, jak gra przechowuje muzykę: rdzeń już dodaje piosenki do wyścigów i pościgów i przywraca oryginał — sprawdzone na kopii plików gry. Pierwsza wersja programu już jest — teraz testy w grze. Premiera — tutaj i na NFS Own Music.
+off = Program zmienia pliki muzyki gry. Przed grą online przywróć oryginalne pliki — jeden przycisk w programie.
+learned1 = [Ghidra](ghidra) — jak gra czyta muzykę; [vgmstream](vgm) — format dźwięku EA; koder dźwięku EA pochodzi z [Frosty Toolsuite](frosty).
+learned2 = [Unbound Soundtrack](unbound) i [Heat Soundtrack](heat) — nasze programy do NFS Unbound i Heat; z nich wyrasta Hot Pursuit Soundtrack.
+foot = Projekt fanowski, niezwiązany z Electronic Arts, Criterion Games ani Stellar Entertainment. Need for Speed i Hot Pursuit to znaki towarowe Electronic Arts Inc. Wideo w nagłówku pochodzi z intra gry.

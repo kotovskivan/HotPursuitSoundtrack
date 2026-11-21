@@ -1,0 +1,58 @@
+# de — сайт Hot Pursuit Soundtrack. Общие строки (хаб, подвал, кнопки) — как на сайте Heat; про HP — свои (21.11.2026).
+# Формат: ключ = текст. **жирный**, [текст](ключ-ссылка из sajt.txt), обратный слэш + n — перенос.
+
+# --- общее с сайтом Heat ---
+og_locale = de_DE
+lang_name = Deutsch
+suggest = Diese Seite gibt es auch auf Deutsch
+ai_note = Übersetzungen mit KI erstellt (Claude)
+lang_nav = Sprache
+soon = Demnächst
+download = Herunterladen
+source = Quellcode
+facts = Kostenlos · Windows 10/11 · Nur Einzelspieler · Fan-Projekt, nicht mit EA verbunden
+guide = Steam-Guide
+hubTag = Unsere Seite für die ganze Reihe
+hubLead = Deine eigenen Songs in **Need for Speed** — als neue Tracks, direkt neben der Musik des Spiels.
+hubReady = Verfügbar
+hubSoon = Demnächst
+hubGo = Zur Seite
+hubStrip = Eigene Songs für die ganze NFS-Reihe
+hubRole = alle NFS-Teile · Website ↗
+hMade = Gemacht von
+madeK = Entwickler · Steam ↗
+madeC = KI von Anthropic · claude.ai ↗
+hLearned = Gelernt von
+hNeed = Du brauchst
+hOff = Nur offline
+license = Der Code wurde mit KI geschrieben (Claude von Anthropic). Lizenz — GNU GPL v3: nutzen, teilen, ändern — der Vermerk „Kitivski + Claude“ und der offene Code bleiben.
+
+# --- Hot Pursuit ---
+seo_title = Hot Pursuit Soundtrack — eigene Musik in NFS Hot Pursuit & Remastered (PC-Mod)
+seo_desc = Bald: eigene Songs in Need for Speed Hot Pursuit (2010) und Hot Pursuit Remastered — als neue Tracks in Rennen und Verfolgungsjagden. Songs von YouTube / YT Music / Spotify. Kostenlos, Open Source.
+heroTag = Mod für eigene Musik · NFS Hot Pursuit · 2010 + Remastered · PC
+lead = Eigene Songs in **Need for Speed Hot Pursuit** und **Hot Pursuit Remastered** — als neue Tracks in Rennen und Verfolgungsjagden, neben der Musik des Spiels.
+hubSub = Kostenlose Open-Source-Programme. Unbound und Heat sind fertig, Hot Pursuit ist als Nächstes dran.
+hWhat = Was es können wird
+f1t = Eigene Songs
+f1 = mp3, flac, wav, ogg, m4a — als **neue** Tracks mit eigenem Namen, neben dem Soundtrack des Spiels, nicht statt ihm. Die Tracks des Spiels behältst du oder schaltest sie aus.
+f2t = Rennen & Verfolgungen
+f2 = Das Spiel hat zwei Playlists: Rennen und Polizei-Verfolgungen. Per Häkchen wählst du, wo jeder Song läuft.
+f3t = 2010 & Remastered
+f3 = Ein Programm für beide Versionen: Es findet das Spiel in Steam oder der EA app selbst. Die Musik ist in beiden gleich aufgebaut.
+f4t = YouTube · YT Music · Spotify
+f4 = Link zu Song, Playlist oder Album einfügen — das Programm lädt selbst herunter, wie bei Unbound und Heat Soundtrack.
+f5t = Original zurück
+f5 = Vor der ersten Installation ins Spiel sichert das Programm die originalen Musikdateien. Ein Knopf — und das Spiel ist wie vorher. Ohne Frosty und Schlüssel: Hot Pursuit läuft nicht auf Frostbite.
+f6t = Sauberes zip
+f6 = Im zip sind weder Musik noch Spieldateien: Die Songs sind deine, die Spieldateien liest das Programm aus deinem Spiel.
+n1 = **Windows 10 oder 11**.
+n2 = **Need for Speed Hot Pursuit** (2010) oder **Hot Pursuit Remastered** — Steam oder EA app.
+n3 = Sonst nichts: kein Frosty Mod Manager, keine Schlüssel.
+hStatus = Stand
+hProg = In Arbeit
+prog = Wie das Spiel Musik speichert, haben wir herausgefunden: Der Kern fügt schon Songs in Rennen und Verfolgungen ein und stellt das Original wieder her — getestet an einer Kopie der Spieldateien. Die erste Programmversion steht — jetzt wird im Spiel getestet. Release — hier und auf NFS Own Music.
+off = Das Programm ändert die Musikdateien des Spiels. Vor dem Online-Spiel die Originaldateien wiederherstellen — ein Knopf im Programm.
+learned1 = [Ghidra](ghidra) — wie das Spiel Musik liest; [vgmstream](vgm) — EAs Audioformat; der EA-Audio-Encoder stammt aus [Frosty Toolsuite](frosty).
+learned2 = [Unbound Soundtrack](unbound) und [Heat Soundtrack](heat) — unsere Programme für NFS Unbound und Heat; aus ihnen wächst Hot Pursuit Soundtrack.
+foot = Fanprojekt, nicht mit Electronic Arts, Criterion Games oder Stellar Entertainment verbunden. Need for Speed und Hot Pursuit sind Marken von Electronic Arts Inc. Das Video oben stammt aus dem Intro des Spiels.

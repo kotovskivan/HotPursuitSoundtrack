@@ -1,0 +1,58 @@
+# it — сайт Hot Pursuit Soundtrack. Общие строки (хаб, подвал, кнопки) — как на сайте Heat; про HP — свои (21.11.2026).
+# Формат: ключ = текст. **жирный**, [текст](ключ-ссылка из sajt.txt), обратный слэш + n — перенос.
+
+# --- общее с сайтом Heat ---
+og_locale = it_IT
+lang_name = Italiano
+suggest = Questa pagina è disponibile anche in italiano
+ai_note = Traduzioni fatte con l'IA (Claude)
+lang_nav = Lingua
+soon = Presto
+download = Scarica
+source = Codice sorgente
+facts = Gratis · Windows 10/11 · Solo giocatore singolo · Progetto di fan, non affiliato con EA
+guide = Guida su Steam
+hubTag = Il nostro sito per tutta la serie
+hubLead = Le tue canzoni in **Need for Speed**, come nuove tracce accanto alla musica del gioco.
+hubReady = Disponibile
+hubSoon = Presto
+hubGo = Vai al sito
+hubStrip = Le tue canzoni in tutta la serie NFS
+hubRole = tutti gli NFS · Sito ↗
+hMade = Fatto da
+madeK = sviluppatore · Steam ↗
+madeC = IA di Anthropic · claude.ai ↗
+hLearned = Abbiamo imparato da
+hNeed = Ti serve
+hOff = Solo offline
+license = Il codice è stato scritto con l'IA (Claude di Anthropic). Licenza — GNU GPL v3: usalo, condividilo, modificalo — mantieni il credito «Kitivski + Claude» e il codice aperto.
+
+# --- Hot Pursuit ---
+seo_title = Hot Pursuit Soundtrack — la tua musica in NFS Hot Pursuit e Remastered (mod per PC)
+seo_desc = In arrivo: aggiungi le tue canzoni a Need for Speed Hot Pursuit (2010) e Hot Pursuit Remastered come nuove tracce in gare e inseguimenti. Canzoni da YouTube / YT Music / Spotify. Gratis, open source.
+heroTag = Mod per la tua musica · NFS Hot Pursuit · 2010 + Remastered · PC
+lead = Le tue canzoni in **Need for Speed Hot Pursuit** e **Hot Pursuit Remastered**: nuove tracce in gare e inseguimenti, accanto alla musica del gioco.
+hubSub = Programmi gratuiti e open source. Unbound e Heat sono pronti, Hot Pursuit è il prossimo.
+hWhat = Cosa farà
+f1t = Le tue canzoni
+f1 = mp3, flac, wav, ogg, m4a — come tracce **nuove** con il loro nome, accanto alla colonna sonora del gioco, non al suo posto. Le tracce del gioco puoi tenerle o spegnerle.
+f2t = Gare e inseguimenti
+f2 = Il gioco ha due playlist: gare e inseguimenti con la polizia. Con le spunte scegli dove suona ogni canzone.
+f3t = 2010 e Remastered
+f3 = Un solo programma per entrambe le versioni: trova il gioco su Steam o EA app da solo. La musica funziona allo stesso modo in tutte e due.
+f4t = YouTube · YT Music · Spotify
+f4 = Incolla il link di una canzone, playlist o album: il programma scarica da solo, come Unbound e Heat Soundtrack.
+f5t = Ripristina l'originale
+f5 = Prima della prima installazione nel gioco il programma salva una copia dei file musicali originali. Un pulsante e il gioco torna com'era. Niente Frosty né chiavi: Hot Pursuit non usa Frostbite.
+f6t = Zip pulito
+f6 = Nello zip non ci sono né musica né file del gioco: le canzoni sono tue, i file del gioco vengono letti dal tuo gioco.
+n1 = **Windows 10 o 11**.
+n2 = **Need for Speed Hot Pursuit** (2010) o **Hot Pursuit Remastered** — Steam o EA app.
+n3 = Nient'altro: niente Frosty Mod Manager, niente chiavi di cifratura.
+hStatus = A che punto siamo
+hProg = In lavorazione
+prog = Abbiamo capito come il gioco salva la musica: il nucleo aggiunge già canzoni a gare e inseguimenti e ripristina l'originale — testato su una copia dei file del gioco. La prima versione del programma c'è già — ora i test nel gioco. L'uscita — qui e su NFS Own Music.
+off = Il programma modifica i file musicali del gioco. Prima di giocare online ripristina i file originali — un pulsante nel programma.
+learned1 = [Ghidra](ghidra) — come il gioco legge la musica; [vgmstream](vgm) — il formato audio di EA; l'encoder audio EA viene da [Frosty Toolsuite](frosty).
+learned2 = [Unbound Soundtrack](unbound) e [Heat Soundtrack](heat) — i nostri programmi per NFS Unbound e Heat; da loro nasce Hot Pursuit Soundtrack.
+foot = Progetto di fan, non affiliato a Electronic Arts, Criterion Games o Stellar Entertainment. Need for Speed e Hot Pursuit sono marchi di Electronic Arts Inc. Il video in alto viene dall'intro del gioco.

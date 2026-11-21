@@ -1,0 +1,58 @@
+# zh — сайт Hot Pursuit Soundtrack. Общие строки (хаб, подвал, кнопки) — как на сайте Heat; про HP — свои (21.11.2026).
+# Формат: ключ = текст. **жирный**, [текст](ключ-ссылка из sajt.txt), обратный слэш + n — перенос.
+
+# --- общее с сайтом Heat ---
+og_locale = zh_CN
+lang_name = 简体中文
+suggest = 本页面也有简体中文版
+ai_note = 翻译由 AI（Claude）完成
+lang_nav = 语言
+soon = 即将推出
+download = 下载
+source = 源代码
+facts = 免费 · Windows 10/11 · 仅限单人游戏 · 粉丝作品，与 EA 无关
+guide = Steam 指南
+hubTag = 我们的系列网站
+hubLead = 在 **Need for Speed** 里放你自己的歌——作为新曲目，与游戏音乐并存。
+hubReady = 已发布
+hubSoon = 即将推出
+hubGo = 访问网站
+hubStrip = 整个 NFS 系列都能放自己的歌
+hubRole = NFS 全系列 · 官网 ↗
+hMade = 制作
+madeK = 开发者 · Steam ↗
+madeC = Anthropic 的 AI · claude.ai ↗
+hLearned = 我们参考了
+hNeed = 你需要
+hOff = 仅限离线
+license = 代码由 AI（Anthropic 的 Claude）协助编写。许可证 —— GNU GPL v3：可以使用、分享、修改 —— 请保留 “Kitivski + Claude” 署名并保持代码开源。
+
+# --- Hot Pursuit ---
+seo_title = Hot Pursuit Soundtrack — 为《极品飞车：热力追踪》及重制版加入自己的音乐（PC 模组）
+seo_desc = 即将推出：把你自己的歌曲作为新曲目加入《极品飞车：热力追踪》（2010）和《热力追踪 重制版》的比赛与追逐中。支持 YouTube / YT Music / Spotify 歌曲。免费、开源。
+heroTag = 自定义音乐模组 · NFS Hot Pursuit · 2010 + Remastered · PC
+lead = 在 **Need for Speed Hot Pursuit** 和 **Hot Pursuit Remastered** 里播放你自己的歌——作为比赛和追逐中的新曲目，与游戏音乐并存。
+hubSub = 免费开源程序。Unbound 和 Heat 已完成，下一个是 Hot Pursuit。
+hWhat = 将会支持
+f1t = 你的歌曲
+f1 = mp3、flac、wav、ogg、m4a——作为带有自己名称的**新**曲目，与游戏原声并存，而不是替换。游戏曲目可以保留，也可以关闭。
+f2t = 比赛与追逐
+f2 = 游戏有两个播放列表：比赛和警察追逐。用勾选框决定每首歌在哪里播放。
+f3t = 2010 与重制版
+f3 = 一个程序支持两个版本：自动在 Steam 或 EA app 中找到游戏。两个版本的音乐结构相同。
+f4t = YouTube · YT Music · Spotify
+f4 = 粘贴歌曲、播放列表或专辑链接——程序会自动下载，和 Unbound、Heat Soundtrack 一样。
+f5t = 恢复原样
+f5 = 第一次安装到游戏前，程序会备份游戏原始音乐文件。一键即可恢复原样。无需 Frosty 和密钥：Hot Pursuit 不是 Frostbite 引擎。
+f6t = 干净的 zip
+f6 = zip 里既没有音乐也没有游戏文件：歌曲是你的，游戏文件由程序从你的游戏中读取。
+n1 = **Windows 10 或 11**。
+n2 = **Need for Speed Hot Pursuit**（2010）或 **Hot Pursuit Remastered**——Steam 或 EA app。
+n3 = 别的都不需要：无需 Frosty Mod Manager，无需加密密钥。
+hStatus = 进度
+hProg = 开发中
+prog = 我们已经弄清游戏如何存储音乐：核心已经能把歌曲加入比赛和追逐，并恢复原样——已在游戏文件副本上测试。程序的第一个版本已经完成，正在游戏里测试。发布——在这里和 NFS Own Music。
+off = 程序会修改游戏的音乐文件。联机前请恢复原始文件——程序里一键完成。
+learned1 = [Ghidra](ghidra)——游戏如何读取音乐；[vgmstream](vgm)——EA 音频格式；EA 音频编码器来自 [Frosty Toolsuite](frosty)。
+learned2 = [Unbound Soundtrack](unbound) 和 [Heat Soundtrack](heat)——我们为 NFS Unbound 和 Heat 做的程序，Hot Pursuit Soundtrack 由此而来。
+foot = 粉丝项目，与 Electronic Arts、Criterion Games 或 Stellar Entertainment 无关。Need for Speed 和 Hot Pursuit 是 Electronic Arts Inc. 的商标。首屏视频来自游戏片头。

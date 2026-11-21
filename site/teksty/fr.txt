@@ -1,0 +1,58 @@
+# fr — сайт Hot Pursuit Soundtrack. Общие строки (хаб, подвал, кнопки) — как на сайте Heat; про HP — свои (21.11.2026).
+# Формат: ключ = текст. **жирный**, [текст](ключ-ссылка из sajt.txt), обратный слэш + n — перенос.
+
+# --- общее с сайтом Heat ---
+og_locale = fr_FR
+lang_name = Français
+suggest = Cette page existe aussi en français
+ai_note = Traductions faites par IA (Claude)
+lang_nav = Langue
+soon = Bientôt
+download = Télécharger
+source = Code source
+facts = Gratuit · Windows 10/11 · Solo uniquement · Projet de fan, sans lien avec EA
+guide = Guide Steam
+hubTag = Notre site pour toute la série
+hubLead = Tes propres chansons dans **Need for Speed** — en nouvelles pistes, à côté de la musique du jeu.
+hubReady = Disponible
+hubSoon = Bientôt
+hubGo = Voir le site
+hubStrip = Tes chansons dans toute la série NFS
+hubRole = tous les NFS · Site ↗
+hMade = Créé par
+madeK = développeur · Steam ↗
+madeC = IA d'Anthropic · claude.ai ↗
+hLearned = On a appris grâce à
+hNeed = Il te faut
+hOff = Hors ligne uniquement
+license = Le code a été écrit avec l'IA (Claude d'Anthropic). Licence — GNU GPL v3 : utilise-le, partage-le, modifie-le — garde la mention « Kitivski + Claude » et le code ouvert.
+
+# --- Hot Pursuit ---
+seo_title = Hot Pursuit Soundtrack — ta musique dans NFS Hot Pursuit et Remastered (mod PC)
+seo_desc = Bientôt : ajoute tes chansons à Need for Speed Hot Pursuit (2010) et Hot Pursuit Remastered comme nouvelles pistes en course et en poursuite. Chansons depuis YouTube / YT Music / Spotify. Gratuit, open source.
+heroTag = Mod musique perso · NFS Hot Pursuit · 2010 + Remastered · PC
+lead = Tes chansons dans **Need for Speed Hot Pursuit** et **Hot Pursuit Remastered** : de nouvelles pistes en course et en poursuite, à côté de la musique du jeu.
+hubSub = Logiciels gratuits et open source. Unbound et Heat sont prêts, Hot Pursuit est le suivant.
+hWhat = Ce qu'il fera
+f1t = Tes chansons
+f1 = mp3, flac, wav, ogg, m4a — en **nouvelles** pistes avec leur propre nom, à côté de la bande-son du jeu, pas à sa place. Les pistes du jeu : garde-les ou coupe-les.
+f2t = Courses et poursuites
+f2 = Le jeu a deux playlists : courses et poursuites avec la police. Coche où passe chaque chanson.
+f3t = 2010 et Remastered
+f3 = Un seul logiciel pour les deux versions : il trouve le jeu dans Steam ou l'EA app tout seul. La musique y fonctionne de la même façon.
+f4t = YouTube · YT Music · Spotify
+f4 = Colle le lien d'une chanson, d'une playlist ou d'un album — le logiciel télécharge tout seul, comme Unbound et Heat Soundtrack.
+f5t = Retour à l'original
+f5 = Avant la première installation dans le jeu, le logiciel garde une copie des fichiers musicaux d'origine. Un bouton — et le jeu redevient comme avant. Sans Frosty ni clés : Hot Pursuit n'utilise pas Frostbite.
+f6t = Zip propre
+f6 = Ni musique ni fichiers du jeu dans le zip : les chansons sont les tiennes, les fichiers du jeu sont lus depuis ton jeu.
+n1 = **Windows 10 ou 11**.
+n2 = **Need for Speed Hot Pursuit** (2010) ou **Hot Pursuit Remastered** — Steam ou EA app.
+n3 = Rien d'autre : pas de Frosty Mod Manager, pas de clés de chiffrement.
+hStatus = Où on en est
+hProg = En cours
+prog = On a compris comment le jeu stocke la musique : le cœur ajoute déjà des chansons aux courses et aux poursuites et restaure l'original — testé sur une copie des fichiers du jeu. La première version du logiciel est prête — place aux tests en jeu. Sortie — ici et sur NFS Own Music.
+off = Le logiciel modifie les fichiers musicaux du jeu. Avant de jouer en ligne, restaure les fichiers d'origine — un bouton dans le logiciel.
+learned1 = [Ghidra](ghidra) — comment le jeu lit la musique ; [vgmstream](vgm) — le format audio d'EA ; l'encodeur audio EA vient de [Frosty Toolsuite](frosty).
+learned2 = [Unbound Soundtrack](unbound) et [Heat Soundtrack](heat) — nos logiciels pour NFS Unbound et Heat ; Hot Pursuit Soundtrack en est issu.
+foot = Projet de fan, sans lien avec Electronic Arts, Criterion Games ou Stellar Entertainment. Need for Speed et Hot Pursuit sont des marques d'Electronic Arts Inc. La vidéo d'en-tête provient de l'intro du jeu.
